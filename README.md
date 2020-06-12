@@ -1,6 +1,6 @@
-# exercise-exquisite-corpse
-Histoire de ouf
+exercise-exquisite-corpse
+# Histoire de ouf
 
-C'était un matin d'hiver, il faisait froid.
-Il avait neigé toute la nuit.
-Laurent n'avait pas envie de sortir.
+_C'était un matin d'hiver, il faisait froid._
+_Il avait neigé toute la nuit._
+_Laurent n'avait pas envie de sortir._
