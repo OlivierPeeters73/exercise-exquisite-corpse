@@ -10,3 +10,6 @@ Non mais t'es ouf ?? T'as vu comment il avait neigé ?
 Comme son père disait :*
 >> Mon fils, les humains c'est pas fait pour
 >> rester dehors par un temps pareil.
+
+Laurent décida de renfiler son pyjama pour s'installer devant son feu ouvert.
+##### "Je ne bougerai pas mon cul de ce fauteuil. Je vous le dis"
