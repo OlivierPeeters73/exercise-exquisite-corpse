@@ -13,3 +13,5 @@ Comme son père disait :*
 
 Laurent décida de renfiler son pyjama pour s'installer devant son feu ouvert.
 ##### "Je ne bougerai pas mon cul de ce fauteuil. Je vous le dis"
+
+Mais c'est alors qu'il aperçoit par la fenêtre un :snowman: et un peu plus loin un grizzly :bear:! Effrayé :sob:, il se dit :"Voilà une bone raison rester à l'intérieur".
